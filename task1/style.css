@@ -1,0 +1,21 @@
+body {
+    width: 99vw;
+    background-image: linear-gradient(to bottom, black, #444444);
+    background-size: cover;
+    background-repeat:no-repeat;
+    overflow: hidden;
+    color: #008800;
+}
+section {
+    height: 100vh;
+}
+section> h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+section>p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
